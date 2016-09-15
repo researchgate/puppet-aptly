@@ -49,7 +49,7 @@
 #   Default: false
 #
 # [*filter_with_deps*]
-#   Boolean to control whether when filtering to include dependencies of matching 
+#   Boolean to control whether when filtering to include dependencies of matching
 #   packages as well
 #   Default: false
 #
